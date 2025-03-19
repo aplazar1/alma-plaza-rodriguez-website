@@ -1,0 +1,34 @@
+---
+title: "Alma Plaza-Rodriguez"
+image: "profile_professional_picture.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/alma-plaza-rodriguez-26536a108/"
+  - label: Github
+    url: "https://github.com/aplazar1/"
+      
+output:
+  postcards::jolla
+---
+ 
+I am a talented computational biophysicist with a strong background in mathematics and a wide array of modeling and bioinformatics skills.
+
+**My modeling expertise spans: **
+<div style="text-indent: 40px;">
+Stochastic Reaction-Diffusion simulation, Molecular Modeling, Monte Carlo Simulation, Dynamical Systems Modeling, Development of Deterministic and Stochastic Kinetic Models, Molecular Dynamics, biological physics and mechanics, Finite Element Analysis, Physiological modeling, Protein structure analysis, Systems Biology, Graph-based models, probabilistic modeling, PKPD, QSP
+
+**My Bioinformatics skills span: **
+<div style="text-indent: 40px;">
+Machine Learning/Deep Learning, Neural Networks with Python and TensorFlow,  Clustering Algorithms, PCA, UMAP, tSNE, R, SQL, HPC (High Performance Computing), Statistical Data Analysis, Numpy, SciPy, scikit-learn, pandas, ggpplot, Analysis of bioinformatic and high dimensional data, Mining of biological data, Analysis of -omics data, Git/Github, analysis of Single Cell RNA-Seq data, Bioconductor, spatial transcriptomics analysis, Seurat, Integration of multi-omics data, ATAC-Seq data analysis, Scanpy
+
+**Some of my featured publications are:**
+
+>**Plaza-Rodriguez, Alma I., et al**. "Particle-Based Model of Mechanosensory Contractility Kit Assembly." Biophysical Journal (2022).
+
+>David Dolgitzer , **Alma Plaza-Rodriguez**, Douglas N. Robinson, Pablo A. Iglesias, et al. “ A continuum model of mechanosensation based on contractility kit assembly”. Biophysical Journal (2024) (co-first author).
+
+>Caglar Cosarderelioglu, Simon Kreimer, **Alma Plaza-Rodriguez**, Pablo Iglesias, Peter Abadir, et al. “Decoding Angiotensin Receptors: TOMAHAQ-based Detection and Quantification of Angiotensin Type I and Type 2 receptors”. Journal of the American Heart Association (2023).
+
+>Caglar Cosarderelioglu, Simion Kreimer, **Alma Plaza-Rodriguez**, Pablo A. Iglesias, Peter Abadir, et al., “Frontal cortex Angiotensin type 2 receptor-interacting protein levels are associated with less amyloid-β burden in postmortem brains of older adults with Alzheimer’s dementia”. Journal of Gerontology: Biological Sciences (2025) (submitted, under review).
+
+
