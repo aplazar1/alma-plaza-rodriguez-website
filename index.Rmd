@@ -11,7 +11,7 @@ output:
   postcards::jolla
 ---
  
-I am a talented computational biophysicist with a strong background in mathematics and a wide array of modeling and bioinformatics skills.
+I am a talented computational biophysicist with a strong background in mathematics and bioinformatics skills.	I have  a diverse set of modeling and multi-omic bioinformatic analysis skills (7+ years of experience), as well as experimental background in cell and molecular biology, and biochemistry (4+ years of experience). 
 
 **My modeling expertise spans: **
 <div style="text-indent: 40px;">
@@ -30,5 +30,68 @@ Machine Learning/Deep Learning, Neural Networks with Python and TensorFlow,  Clu
 >Caglar Cosarderelioglu, Simon Kreimer, **Alma Plaza-Rodriguez**, Pablo Iglesias, Peter Abadir, et al. “Decoding Angiotensin Receptors: TOMAHAQ-based Detection and Quantification of Angiotensin Type I and Type 2 receptors”. Journal of the American Heart Association (2023).
 
 >Caglar Cosarderelioglu, Simion Kreimer, **Alma Plaza-Rodriguez**, Pablo A. Iglesias, Peter Abadir, et al., “Frontal cortex Angiotensin type 2 receptor-interacting protein levels are associated with less amyloid-β burden in postmortem brains of older adults with Alzheimer’s dementia”. Journal of Gerontology: Biological Sciences (2025) (submitted, under review).
+
+**Some of my conference presentations & certifications are:**
+
+>*ICERM Women in Mathematical Biology Workshop Co-Instructor/Lead*, Brown University, January 2025
+
+>*Statistical Analysis of Genome Scale Data Course Certificate*, Cold Spring Harbor Laboratory, June 2024
+
+>*Modeling contractility kit-mediated cytoskeletal network assembly (Seminar and Poster)*, American Society for Cell Biology (ASCB) Annual Meeting, December 2022
+
+
+>*Modeling contractility kit-mediated cytoskeletal network assembly (Flash Talk and Poster)*, Biophysical Society Meeting, February 2022
+
+>*Modelling contractility kit mediated mechanosensation and cytoskeletal network assembly*, Johns Hopkins University Student Evening Series, October 2020 
+
+>*Whole-Cell Simulation of Phenotype Switching and Cellular Memory in S. cerevisiae*, PMB Student Seminar, Johns Hopkins University, October 2019 
+
+>*Characterization of amino acids critical to α-Glycerophosphate Oxidase Catalysis*, National Conference for Undergraduate Research (NCUR), April 2017 
+
+>*Characterization of amino acids critical to α-Glycerophosphate Oxidase Catalysis*, Western Carolina University Undergraduate Expo, March 2017 
+
+>*Characterization of amino acids critical to α-Glycerophosphate Oxidase Catalysis* , St. Jude Children’s Research Hospital National Undergraduate Research Symposium,July 2016  
+
+>*Validation of the alpha-Glycerophosphate Oxidase Catalytic Mechanism via Site-Directed Mutagenesis*, National Conference for Undergraduate Research (NCUR), April 2016 
+
+>*Validation of the alpha-Glycerophosphate Oxidase Catalytic Mechanism via Site-Directed Mutagenesis*, Western Carolina University Undergraduate Expo, March 2016 
+
+**Awards, Fellowships, and Scholarships:**
+
+1.*Student Research Achievement Award (Biophysical Society SRAA poster competition) 2023*
+  - Selected out of a competitive pool of hundreds of participating students from around the world.
+
+2.*Thomas C. Jenkins Department of Biophysics Carlson Fellowship 2017*
+  -	Offered to outstanding biophysics applicants.
+
+3.*Glaxo Smith Kline Women in Science Scholarship 2015, 2016*
+  -	Selected out of a competitive pool of female WCU chemistry majors.
+
+4.*Western Carolina University Honors College Merit Scholarship 2014-2017*
+  -	Awarded for continued academic excellence.
+ 
+5.*Brown Family Scholarship	2014*
+  -	Merit-based scholarship awarded to one outstanding WCU chemistry major. 
+
+**Teaching & leadership experience:**
+
+1.*ICERM Women in Mathematical Biology Workshop Co-Instructor/Lead, 2025*
+
+2.*Convergence Institute Coding Clinic Teaching Assistant, 2024*
+
+3.*Program in Molecular Biophysics Student Representative, 2021-2022*
+
+4.*Johns Hopkins Graduate Consulting Club Member (pro-bono consulting), 2021*
+
+5.*Host for Johns Hopkins University Lectures in Computational Biophysics, 2019-2020*
+
+6.*Western Carolina University Honors College Senior Mentor, 2016-2017*
+
+7.*WCU Learning Commons Peer Tutor, 2014-2017*
+
+8.*WCU Honors College Board of Directors Member, 2013-2014*
+
+
+
 
 
